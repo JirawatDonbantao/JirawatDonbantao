@@ -1,60 +1,125 @@
-# สวัสดีครับ ผมจิรวัฒน์ 👋
+# Hi, I'm Jirawat 👋
 
-ผมชื่อ **จิรวัฒน์ ดอนบรรเทา** เป็นคนขอนแก่น จบการศึกษาระดับ ปวส.  
-สาขาเทคโนโลยีสารสนเทศ และปัจจุบันกำลังศึกษาต่อระดับปริญญาตรีด้านเทคโนโลยีสารสนเทศ
+My name is **Jirawat Donbantao**. I am interested in **Web Development, Backend, Databases, Cloud, and Software Development**.
 
-ผมสนใจการพัฒนาเว็บไซต์ ระบบหลังบ้าน และการนำเทคโนโลยีต่าง ๆ  
-มาเชื่อมต่อกันให้กลายเป็นระบบที่สามารถใช้งานได้จริง
+I enjoy learning by building real projects and connecting different technologies together — from frontend interfaces, backend systems, APIs, databases, and authentication to deploying applications online.
 
-GitHub นี้เป็นพื้นที่สำหรับเก็บโปรเจกต์ แบบฝึกหัด  
-และสิ่งที่ผมได้เรียนรู้ระหว่างพัฒนาทักษะด้านซอฟต์แวร์
+This GitHub profile is a place where I collect my **projects, exercises, technology experiments, and things I have learned while improving my software development skills**.
 
-## เกี่ยวกับผม
+---
 
-- เคยฝึกงานด้าน IT Support ที่คณะวิทยาศาสตร์ มหาวิทยาลัยขอนแก่น
-- สนใจ Web Development, Cloud Computing 
-- ชอบเรียนรู้จากการลงมือทำและแก้ปัญหาที่เกิดขึ้นจริง
-- กำลังพัฒนาความเข้าใจด้านการเขียนโค้ด การออกแบบระบบ และการ Deploy แอปพลิเคชัน
+## 👨‍💻 What I Can Do
 
-## เทคโนโลยีที่เคยใช้งาน
+- Develop websites with **HTML, CSS, and JavaScript**
+- Build frontend applications with **React**
+- Create backend systems and **REST APIs with Node.js and Express**
+- Connect frontend and backend applications through APIs
+- Work with **PostgreSQL and MySQL**
+- Build user registration and login systems
+- Use **JWT Authentication**
+- Connect applications to external APIs and third-party services
+- Use **Firebase and Supabase**
+- Use **Git and GitHub** for source code management
+- Deploy websites and web applications online
+- Use **Vercel and Render**
+- Manage **Environment Variables and Cloud Databases**
+- Write basic **Automated Tests**
+- Use **GitHub Actions** for workflows and automated testing
+- Read existing code, debug problems, and improve existing systems
 
-- HTML, CSS และ JavaScript
-- React และ Vue.js
-- Node.js และ Express
-- MySQL และ PostgreSQL
-- Git และ GitHub
-- Firebase, Supabase และ Neon
-- Vercel และ Render
+---
 
-## โปรเจกต์ที่อยากแนะนำ
+## 🛠️ Technologies & Tools
+
+### Frontend
+
+`HTML` `CSS` `JavaScript` `React` `Vue.js`
+
+### Backend
+
+`Node.js` `Express` `REST API`
+
+### Database
+
+`PostgreSQL` `MySQL` `Neon`
+
+### Backend Services
+
+`Firebase` `Supabase`
+
+### Cloud & Deployment
+
+`Vercel` `Render`
+
+### Development Tools
+
+`Git` `GitHub` `GitHub Actions`
+
+---
+
+## 🚀 Featured Projects
 
 ### 🌤️ Weather App
 
-เว็บแอปสำหรับตรวจสอบสภาพอากาศผ่าน External API  
-มีระบบสมัครสมาชิกและเข้าสู่ระบบ โดยแยก Frontend, Backend และฐานข้อมูลออกจากกัน
+A web application for checking weather information through an **External API**.
+
+The project separates the **Frontend, Backend, and Database** and includes a user registration and login system.
+
+**Technologies Used**
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: Node.js และ Express
-- Database: PostgreSQL บน Neon
-- Deployment: Vercel และ Render
+- Backend: Node.js and Express
+- Database: PostgreSQL on Neon
+- Authentication: JWT
+- Deployment: Vercel and Render
 
-[ดู Source Code](https://github.com/JirawatDonbantao/weather-app)  
-[ทดลองใช้งาน](https://weather-app-two-nu-24.vercel.app)
+🔗 [View Source Code](https://github.com/JirawatDonbantao/weather-app)
+
+🌐 [Live Demo](https://weather-app-two-nu-24.vercel.app)
+
+---
 
 ### 🚀 MyFirstAPI
 
-REST API ที่พัฒนาขึ้นสำหรับ Weather App  
-มีระบบ JWT Authentication, PostgreSQL, Automated Testing และ GitHub Actions
+A **REST API** developed to work with the Weather App.
 
-[ดู Source Code](https://github.com/JirawatDonbantao/myfirstapi)
+The system includes:
 
-## ตอนนี้กำลังเรียนรู้
+- REST API
+- JWT Authentication
+- PostgreSQL Database
+- Environment Variables
+- Automated Testing
+- GitHub Actions
 
-ผมกำลังพัฒนาความเข้าใจเกี่ยวกับ React, Backend Development, Database, Cloud และ DevOps  
-รวมถึงฝึกอ่านโค้ดเดิม แก้ไขข้อผิดพลาด และอธิบายการทำงานของระบบให้เข้าใจมากขึ้น
+🔗 [View Source Code](https://github.com/JirawatDonbantao/myfirstapi)
 
-## ติดต่อ
+---
 
-- Email: jirawatdonbantao@gmail.com
+## 📚 Currently Learning & Improving
+
+I am currently improving my skills to become more capable of building complete systems, with a focus on:
+
+`Full Stack Development` • `Backend` • `Database` • `Cloud` • `DevOps`
+
+I am also learning and practicing:
+
+- System Design
+- API Design
+- Database Design
+- Automated Testing
+- CI/CD
+- Docker
+- Cloud Deployment
+- Basic Security
+- Reading and understanding existing codebases
+
+My goal is to improve my ability to take an **idea or problem**, analyze it, design a solution, and develop it into a **real, usable system**.
+
+---
+
+## 📫 Contact
+
+- Email: **jirawatdonbantao@gmail.com**
 - GitHub: [JirawatDonbantao](https://github.com/JirawatDonbantao)
-- Location: Khon Kaen, Thailand
+- Location: **Khon Kaen, Thailand**
