@@ -122,4 +122,4 @@ My goal is to improve my ability to take an **idea or problem**, analyze it, des
 
 - Email: **jirawatdonbantao@gmail.com**
 - GitHub: [JirawatDonbantao](https://github.com/JirawatDonbantao)
-- Location: **Khon Kaen, Thailand**
+
