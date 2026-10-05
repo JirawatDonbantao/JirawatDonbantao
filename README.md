@@ -1,16 +1,16 @@
 # Hi, I'm Jirawat 👋
 
-My name is **Jirawat Donbantao**. I am interested in **Web Development, Backend, Databases, Cloud, and Software Development**.
+My name is **Jirawat Donbantao**. I am interested in **Web Development, Backend Development, Databases, Cloud, and Software Development**.
 
-I enjoy learning by building real projects and connecting different technologies together — from frontend interfaces, backend systems, APIs, databases, and authentication to deploying applications online.
+I enjoy learning by building real projects and connecting different technologies together — from frontend interfaces and backend systems to APIs, databases, authentication, testing, and cloud deployment.
 
-This GitHub profile is a place where I collect my **projects, exercises, technology experiments, and things I have learned while improving my software development skills**.
+This GitHub profile is where I collect my **projects, exercises, experiments, and what I have learned while developing my software development skills**.
 
 ---
 
 ## 👨‍💻 What I Can Do
 
-- Develop websites with **HTML, CSS, and JavaScript**
+- Develop responsive websites with **HTML, CSS, and JavaScript**
 - Build frontend applications with **React**
 - Create backend systems and **REST APIs with Node.js and Express**
 - Connect frontend and backend applications through APIs
@@ -19,9 +19,10 @@ This GitHub profile is a place where I collect my **projects, exercises, technol
 - Use **JWT Authentication**
 - Connect applications to external APIs and third-party services
 - Use **Firebase and Supabase**
-- Use **Git and GitHub** for source code management
+- Use **Git and GitHub** for source code management and collaboration
+- Work with feature branches, commits, Pull Requests, code reviews, and merges
 - Deploy websites and web applications online
-- Use **Vercel and Render**
+- Use **Vercel, Render, and Cloudflare Workers**
 - Manage **Environment Variables and Cloud Databases**
 - Write basic **Automated Tests**
 - Use **GitHub Actions** for workflows and automated testing
@@ -49,15 +50,40 @@ This GitHub profile is a place where I collect my **projects, exercises, technol
 
 ### Cloud & Deployment
 
-`Vercel` `Render`
+`Vercel` `Render` `Cloudflare Workers`
 
 ### Development Tools
 
-`Git` `GitHub` `GitHub Actions`
+`Git` `GitHub` `GitHub Actions` `Visual Studio Code`
 
 ---
 
 ## 🚀 Featured Projects
+
+### 👨‍💻 Developer Profile
+
+A responsive developer profile website created as part of my **Full Stack Developer learning journey**.
+
+The project introduces who I am, what I am learning, the technologies I work with, and my current development goals.
+
+**Highlights**
+
+- Responsive layout for mobile, tablet, laptop, and desktop
+- About Me section
+- Skills showcase
+- Technologies & Tools section
+- Learning roadmap
+- Portfolio preview
+- Contact section
+- Technology icons and visual assets
+- Anchor navigation and page interactions
+- Git branch workflow
+- Pull Requests and code reviews
+- Cloud deployment with Cloudflare Workers
+
+🌐 [Live Demo](https://profile.jirawatdev.workers.dev/)
+
+---
 
 ### 🌤️ Weather App
 
@@ -116,10 +142,12 @@ I am also learning and practicing:
 
 My goal is to improve my ability to take an **idea or problem**, analyze it, design a solution, and develop it into a **real, usable system**.
 
+I want to become a developer who can understand the complete development process — from planning and implementation to testing, deployment, documentation, and continuous improvement.
+
 ---
 
 ## 📫 Contact
 
 - Email: **jirawatdonbantao@gmail.com**
 - GitHub: [JirawatDonbantao](https://github.com/JirawatDonbantao)
-- profile: [Profile.Jirawatdev](https://profile.jirawatdev.workers.dev/)
+- Developer Profile: [profile.jirawatdev.workers.dev](https://profile.jirawatdev.workers.dev/)
