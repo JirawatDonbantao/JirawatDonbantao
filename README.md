@@ -3,6 +3,7 @@
 **Web Developer · Full Stack (JavaScript)**
 
 I build web applications from the user interface to the API and database.
+
 📍 Thailand · Open to **full-time junior developer roles and internships**.
 
 [![Website](https://img.shields.io/badge/Website-2563EB?style=flat-square)](https://profile.jirawatdev.workers.dev/)
