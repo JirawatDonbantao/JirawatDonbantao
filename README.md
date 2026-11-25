@@ -4,7 +4,9 @@
 
 I build web applications from the user interface to the API and database.
 
-📍 Thailand · Open to **full-time junior developer roles and internships**.
+**I am looking for a full-time junior developer job or an internship.**
+
+📍 Thailand
 
 [![Website](https://img.shields.io/badge/Website-2563EB?style=flat-square)](https://profile.jirawatdev.workers.dev/)
 [![Email](https://img.shields.io/badge/Email-334155?style=flat-square)](mailto:jirawatdonbantao@gmail.com)
